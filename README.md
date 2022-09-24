@@ -11,3 +11,6 @@ A documentation on startup dotnet in macOS
 
 ## How to check that .NET is already installed
 - [How to check that .NET is already installed](https://learn.microsoft.com/en-us/dotnet/core/install/how-to-detect-installed-versions?pivots=os-macos)
+
+## Bonus
+- [Tutorial: Create a .NET console application using Visual Studio for Mac](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-mac)
