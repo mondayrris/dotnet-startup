@@ -14,3 +14,10 @@ A documentation on startup dotnet in macOS
 
 ## Bonus
 - [Tutorial: Create a .NET console application using Visual Studio for Mac](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-mac)
+
+## Self-made Tutorial Repositories
+
+Anytime navigate these repositories in sequence to revise the development flow
+- [dotnet-HelloWorld and Debug](https://github.com/mondayrris/dotnet-HelloWorld)
+- [dotnet-create-library](https://github.com/mondayrris/dotnet-create-library)
+- [dotnet-unittest-library](https://github.com/mondayrris/dotnet-unittest-library)
