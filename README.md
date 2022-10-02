@@ -12,6 +12,9 @@ A documentation on startup dotnet
 ## How to check that .NET is already installed
 - [How to check that .NET is already installed](https://learn.microsoft.com/en-us/dotnet/core/install/how-to-detect-installed-versions?pivots=os-macos)
 
+## Microsoft SQL Server with Docker
+- [How to install SQL Server for Mac](https://setapp.com/how-to/install-sql-server)
+
 ## Bonus
 - [Tutorial: Create a .NET console application using Visual Studio for Mac](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-mac)
 
