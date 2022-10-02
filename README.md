@@ -21,6 +21,9 @@ A documentation on startup dotnet
 - [how to install Azure Data Studio on a Mac](https://database.guide/how-to-install-azure-data-studio-on-a-mac/)
 - [create databases, run T-SQL queries](https://database.guide/sql-tutorial-for-beginners/)
 
+## Running SQL
+- [Use .NET and C# in Visual Studio to connect to and query a database](https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-visual-studio?view=azuresql)
+
 ## Bonus
 - [Tutorial: Create a .NET console application using Visual Studio for Mac](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-mac)
 
