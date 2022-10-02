@@ -14,6 +14,10 @@ A documentation on startup dotnet
 
 ## Microsoft SQL Server with Docker
 - [How to install SQL Server for Mac](https://setapp.com/how-to/install-sql-server)
+- membership type: free (Personal) or paid Docker subscription (Pro, Team or Business).
+
+## Microsoft SQL Server with Docker on M1 Devices
+- [How to Install SQL Server on an M1 Mac (ARM64)](https://database.guide/how-to-install-sql-server-on-an-m1-mac-arm64/)
 
 ## Bonus
 - [Tutorial: Create a .NET console application using Visual Studio for Mac](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-mac)
