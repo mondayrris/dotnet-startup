@@ -34,3 +34,4 @@ Anytime navigate these repositories in sequence to revise the development flow:
 - [dotnet-HelloWorld and Debug](https://github.com/mondayrris/dotnet-HelloWorld)
 - [dotnet-create-library](https://github.com/mondayrris/dotnet-create-library)
 - [dotnet-unittest-library (READ ONLY IF UNITTEST IS REQUIRED)](https://github.com/mondayrris/dotnet-unittest-library)
+- [dotnet-unittest-library-publish](https://github.com/mondayrris/dotnet-unittest-library-publish)
